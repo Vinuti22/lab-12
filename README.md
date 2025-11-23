@@ -1,3 +1,6 @@
+<img width="450" height="288" alt="image" src="https://github.com/user-attachments/assets/a19e3c24-5e49-46d1-a7b9-d2efe96e8eb9" />
+<img width="441" height="319" alt="image" src="https://github.com/user-attachments/assets/39c6ffc3-1112-4e36-b398-aed56e322be3" />
+
 📋 Отчёт о проделанной работе: Система симуляции аутентификации на JWT
 
 💡 Краткий обзор проекта
